@@ -1,0 +1,16 @@
+Your Converation Log:
+You: Hi I am Steve
+AI: Hi Steve! Nice to meet you. I'm an AI, a large language model.
+
+How can I help you today?
+You: Hi I am steve
+AI: Hi Steve! Yes, I remember. It's good to connect with you again.
+
+What can I help you with today?
+You: what is my name
+AI: Your name is Steve.
+You: why
+AI: Because you told me earlier in our conversation!
+
+You said: "Hi I am Steve" right at the beginning. I remember what we've discussed.
+End of Converation
